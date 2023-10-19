@@ -1,0 +1,9 @@
+[submodule "gastly-airdrop-demo"]
+	path = gastly-airdrop-demo
+	url = https://github.com/ltyu/gastly-airdrop-demo
+[submodule "gastly-relayer"]
+	path = gastly-relayer
+	url = https://github.com/ltyu/gastly-relayer.git
+[submodule "gastly-contracts"]
+	path = gastly-contracts
+	url = https://github.com/ltyu/gastly.git
