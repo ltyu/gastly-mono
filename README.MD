@@ -2,8 +2,8 @@ This is the mono repo for gastly
 [architecture](diagram.png)
 
 ## Addresses
-RootPool - 
-BranchPool - 
+RootPool - https://goerli.etherscan.io/address/0x4325df4f116a96846885d3a2c7ebab23b652659d
+BranchPool - https://mumbai.polygonscan.com/address/0x837cfe91eb2d0d309b086faaf94258f379176e52
 Connext xERC20 LP token (goerli) 
 - TX: https://goerli.etherscan.io/tx/0x9ea5db10dc8f45bc5d97d057983bc9b85e4157a26dddf7a85f492f2535336bf6
 - Contract:https://goerli.etherscan.io/address/0xA34488C6C27542cdCDD381D41eb359755B232dc5#code
