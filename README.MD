@@ -29,7 +29,7 @@ At the heart of Gastly is a hub-and-spoke pool model. When a user pays with Bran
 
 Instead, it relies on internal accounting to determine how much can be bridged. Tokens are kept on their respective chain, and rebalancers are incentivizes through rebalancing fees.
 ```
-BranchPoolgi
+BranchPool
 LP: 100
 assets: 100
 last known balance of Root: 100
