@@ -33,7 +33,7 @@ where `balanceUsed` is adjusted everytime stable coins are deposited in 1Balance
 As utilization rate approaches 1 (or, 100%), it means that liquidity on the root pool is being depleted, and branch pool liquidity is increasing. High utilization means users pay higher fees, which also incentivizes liquidity to be 1) rebalanced from the branch pools, and 2) deposited directly into the root pool.
 
 ## Dynamic Balancing Pools
-[Diagram](https://raw.githubusercontent.com/ltyu/gastly-mono/master/diagram.png)
+![Diagram](https://raw.githubusercontent.com/ltyu/gastly-mono/master/diagram.png)
 At the heart of Gastly is a hub-and-spoke pool model. When a user pays with Branch Pool tokens, intuitively, the tokens should be sent to the Root Pool. However, this would be costly for users if their tokens were always bridged over.
 
 Instead, it relies on internal accounting to determine how much can be bridged.  Rebalancers are incentivizes through rebalancing fees.
